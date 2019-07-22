@@ -27,9 +27,9 @@ Connect to the database using psql -d news.
 
 Create the Views given below. Then exit psql.
 
-Now execute the Python file - python logs_analysis.py.
+Execute the Python file - python logs_analysis.py.
 
-CREATE THE FOLLOWING VIEWS FOR QUESTION 2 AND QUESTION 3:
+CREATE THE FOLLOWING VIEWS FOR QUESTION 3:
 
 Views for Question 3
 ```

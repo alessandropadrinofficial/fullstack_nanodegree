@@ -134,13 +134,13 @@ SSH port: 2200
 ## Setup for deploying 
 
 Install packages:
-   *sudo pip3 install httplib2*
-   *sudo pip3 install requests*
-   *sudo pip3 install --upgrade oauth2client*
-   *sudo pip3 install sqlalchemy*
-   *sudo pip3 install flask*
-   *sudo apt-get install libpq-dev*
-   *sudo pip3 install psycopg2*
+   a. *sudo pip3 install httplib2*
+   b. *sudo pip3 install requests*
+   c. *sudo pip3 install --upgrade oauth2client*
+   d. *sudo pip3 install sqlalchemy*
+   e. *sudo pip3 install flask*
+   f. *sudo apt-get install libpq-dev*
+   g. *sudo pip3 install psycopg2*
 
 
 ## Setup the virtual host

@@ -33,8 +33,9 @@ SSH port: 2200
 
 1. Run *sudo nano /etc/ssh/sshd_config* to open up the configuration file
 2. Change the port number from 22 to 2200 in this file
-3. Save and exit the file
-4. Restart SSH: *sudo service ssh restart*
+3. Change PermitRootLogin to no
+4. Save and exit the file
+5. Restart SSH: *sudo service ssh restart*
 
 ## Firewall configuration
 
